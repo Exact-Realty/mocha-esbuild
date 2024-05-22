@@ -8,8 +8,8 @@
   },
   "bugs": "https://github.com/RtVision/mocha-esbuild/issues",
   "dependencies": {
-    "@oclif/command": "^1",
-    "@oclif/config": "^1",
+    "@oclif/command": "^1.8.36",
+    "@oclif/config": "^1.18.17",
     "esbuild": "^0.13.14",
     "fast-glob": "^3.2.7",
     "tmp-promise": "^3.0.3",
